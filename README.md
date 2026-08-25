@@ -3,3 +3,4 @@ A lightweight crypto payment gateway built on the Base network for accepting ERC
 chore: initialize payment gateway
 feat: add payment contract
 feat: implement ETH payments
+feat: support ERC-20 payments
