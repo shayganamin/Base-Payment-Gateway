@@ -7,3 +7,4 @@ feat: support ERC-20 payments
 feat: add payment verification
 feat: add transaction tracking
 fix: improve payment validation
+refactor: simplify gateway logic
