@@ -9,3 +9,4 @@ feat: add transaction tracking
 fix: improve payment validation
 refactor: simplify gateway logic
 test: add payment contract tests
+docs: add integration guide
